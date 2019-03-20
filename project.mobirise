@@ -776,7 +776,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>Residential &amp; Commercial</b><br><b>Painting</b>",
+                "title": "<b>Residential &amp; Commercial</b><br><b>Painting</b><br><b><br></b>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
